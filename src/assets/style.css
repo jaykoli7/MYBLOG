@@ -1,0 +1,10 @@
+.menu-item-class{
+    padding:1rem;
+    font-size:2rem;
+    color:#EE7621;
+    text-shadow: 2px 2px 2px #808080;
+}
+
+.row{
+    margin-left:0px !important
+}
